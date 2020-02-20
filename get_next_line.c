@@ -6,7 +6,7 @@
 /*   By: anolivei <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/02/18 17:53:16 by anolivei          #+#    #+#             */
-/*   Updated: 2020/02/19 00:46:10 by anolivei         ###   ########.fr       */
+/*   Updated: 2020/02/19 20:55:24 by anolivei         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,7 +49,7 @@ static int	gnl_return_line(char **s_line, char **line)
 
 int			get_next_line(int fd, char **line)
 {
-	char		buff[100000];
+	char		buff[ARG_MAX];
 	ssize_t		ret;
 	static char	*s_l[OPEN_MAX];
 
