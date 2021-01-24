@@ -5,4 +5,4 @@ The aim of this project is to create a function that returns a line ending with 
 For more informations, read the subject<br>
 <br>
 
-![Alt text](https://miro.medium.com/max/960/0*JkjSrndASl83dK_h.jpg?raw=true "But I fixed it, ok? haha")
+![Alt text](https://miro.medium.com/max/480/0*JkjSrndASl83dK_h.jpg?raw=true "But I fixed it, ok? haha")
